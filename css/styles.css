@@ -1,0 +1,62 @@
+
+
+   .attribution {
+     font-size: 11px;
+     text-align: center;
+     position: relative;
+     top: 55px;
+   }
+
+   .attribution a {
+    color: hsl(228, 45%, 44%);
+   }
+
+   body {
+     background-color: hsl(212, 45%, 89%);
+     margin: 0;
+    
+     
+   }
+
+   .QR-space {
+     background-color: rgb(255, 255, 255);
+     width: 325px;
+     text-align: center;
+     margin: auto;
+     margin-bottom: 20px;
+     border-radius: 25px;
+     position: relative;
+     top: 50px;
+   }
+
+   img {
+     margin-top: 10px;
+     margin-bottom: 50px;
+     width: 300px;
+     border-radius: 25px;
+   }
+
+   .improve {
+     font-size: 24px;
+     font-weight: 700;
+     line-height: .8cm;
+     margin-left: 25px;
+     margin-right: 25px;
+     margin-top: 0;
+     font-family: outfit;
+     margin-bottom: 20px;
+     color: hsl(218, 44%, 22%);
+   }
+
+   .scan {
+    font-weight: 400;
+    font-size: 15px;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    font-family: outfit;
+    padding-bottom: 40px;
+    }
+
+
